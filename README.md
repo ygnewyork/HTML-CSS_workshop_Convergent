@@ -1,2 +1,2 @@
-# HTML-CSS_workshop_Convergen
+# HTML-CSS_workshop_Convergent
 Fa24
