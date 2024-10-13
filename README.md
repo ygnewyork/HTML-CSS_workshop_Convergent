@@ -1,9 +1,9 @@
 # HTML-CSS_workshop_Convergent
-Fa24 Workshop : Provides basic starter code for personal website deliverable.
+Tech Workshop #4: Provides basic starter code for personal website deliverable.
 
-## To run: 
+### To run: 
 
-Fork the repository to your account.
+Fork the repository to your account
 
 Clone it locally on your machine
 
