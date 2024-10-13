@@ -1,16 +1,12 @@
 # HTML-CSS_workshop_Convergent
 Fa24 Workshop : Provides basic starter code for personal website deliverable.
 
-To run: 
+## To run: 
 
 Fork the repository to your account.
 
 Clone it locally on your machine
 
-Create a gh-pages branch (if one already exists, remove it and create a new one based off master).
+Open the index.html with your choice of browser to run the site locally
 
-Push the branch back to GitHub.
-
-View the pages at http://username.github.io/repo`
-
-Don't forget to add us as collaborators afterwards!
+Don't forget to add us as collaborators and fill out the form by 11:59pm on 10/14!
